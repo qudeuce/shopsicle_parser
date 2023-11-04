@@ -1,5 +1,5 @@
 import * as cheerio from "https://esm.sh/cheerio@1.0.0-rc.12";
-import { Document, DOMParser } from "denodom";
+import { Document, DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
 import {
   Brand,
   Currency,

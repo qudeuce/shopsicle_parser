@@ -1,7 +1,5 @@
 {
   "imports": {
-    "jsdom": "https://esm.sh/jsdom",
-    "denodom": "https://deno.land/x/deno_dom/deno-dom-wasm.ts",
-    "esprima": "https://esm.sh/esprima"
+    "denodom": "https://deno.land/x/deno_dom/deno-dom-wasm.ts"
   }
 }
