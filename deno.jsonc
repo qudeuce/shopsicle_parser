@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "deno.ns",
+      "dom",
+      "dom.iterable",
+      "dom.asynciterable"
+    ]
+  },
+  "importMap": "./import_map.json",
+  "tasks": {
+    "dev": "deno run --watch main.ts",
+    "test": "deno test main_test.ts  --allow-read --allow-write --allow-env --allow-net --allow-run --unstable"
+  }
+}

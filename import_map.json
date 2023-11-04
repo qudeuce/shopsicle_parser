@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "https://deno.land/x/jsdom_global/mod.ts": "https://deno.land/x/jsdom_global/mod.ts",
+    "jsdom": "https://esm.sh/jsdom",
+    "denodom": "https://deno.land/x/deno_dom/deno-dom-wasm.ts",
+    "esprima": "https://esm.sh/esprima"
+  }
+}
