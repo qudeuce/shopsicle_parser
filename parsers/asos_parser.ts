@@ -7,7 +7,6 @@ import {
   Domain,
   HTML,
   ID,
-  Image,
   Item,
   Price,
   Product,
